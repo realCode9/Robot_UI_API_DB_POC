@@ -1,0 +1,1 @@
+getProducts = "SELECT * FROM products"
